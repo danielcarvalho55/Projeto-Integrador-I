@@ -11,3 +11,9 @@ Principais funcionalidades do sistema:
 * Visualização de projetos existentes;
 * Sugestão de novos projetos;
 * Acompanhamento geral dos projetos.
+
+# Objetivos do projeto
+
+*Oferecer uma interface intuitiva para empresas sugerirem novos projetos, incluindo a submissão de documentos e requisitos necessários para análise.
+
+*Implementar funcionalidades de gestão e acompanhamento do andamento dos projetos, permitindo o registro de atualizações, feedbacks e progresso.
