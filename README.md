@@ -17,3 +17,5 @@ Principais funcionalidades do sistema:
 * Oferecer uma interface intuitiva para empresas sugerirem novos projetos, incluindo a submissão de documentos e requisitos necessários para análise.
 
 * Implementar funcionalidades de gestão e acompanhamento do andamento dos projetos, permitindo o registro de atualizações, feedbacks e progresso.
+
+* Facilitar a comunicação entre empresas, estudantes e coordenadores, promovendo uma integração eficiente entre os envolvidos.
