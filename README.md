@@ -18,3 +18,6 @@ Principais funcionalidades do sistema:
 * Implementar funcionalidades de gestão e acompanhamento do andamento dos projetos, permitindo o registro de atualizações, feedbacks e progresso.
 
 * Facilitar a comunicação entre empresas, estudantes e coordenadores, promovendo uma integração eficiente entre os envolvidos.
+
+
+Grupo: Joao Pedro Dias (PO), Daniel Carvalho (Scrum master), Guilher Gouvea(dev), Davi Souza(dev), (dev)
