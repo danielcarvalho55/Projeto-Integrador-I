@@ -20,4 +20,4 @@ Principais funcionalidades do sistema:
 * Facilitar a comunicação entre empresas, estudantes e coordenadores, promovendo uma integração eficiente entre os envolvidos.
 
 
-Grupo: Joao Pedro Dias (PO), Daniel Carvalho (Scrum master), Guilher Gouvea(dev), Davi Souza(dev), (dev)
+Grupo: Joao Pedro Dias (PO), Daniel Carvalho (Scrum master), Guilherme Gouvea(dev), Davi Souza(dev), Paulo Victor (dev)
