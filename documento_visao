@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documento de Visão do Projeto - SisCPTI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #1a1a1a;
+        }
+        h1 {
+            border-bottom: 2px solid #0056b3;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #0056b3;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Projeto: Sistema de Gestão do Caderno de Projetos de TI - SisCPTI</h1>
+
+        <p><strong>Gestor do CPTI</strong></p>
+        <p>Data de inclusão desse projeto: agosto/2024</p>
+        
+        <h2>1. Problema</h2>
+        <p>
+            Atualmente, a gestão e a visualização dos projetos de TI solicitados por empresas e oferecidos aos alunos dos cursos de TI do UNICEUB como sugestão de projetos não são centralizadas. Isso dificulta o acompanhamento do status dos projetos e a descoberta de novas oportunidades pelos estudantes e professores.
+        </p>
+
+        <h2>2. Visão Geral</h2>
+        <p>
+            O SisCPTI é um sistema de gestão de projetos de TI, criado para centralizar a visualização e o acompanhamento dos projetos do UNICEUB. Ele servirá como um catálogo digital, permitindo que os alunos e gestores acessem informações sobre projetos em andamento e novas propostas.
+        </p>
+        <p>Os principais recursos do sistema incluem:</p>
+        <ul>
+            <li>Visualização dos projetos</li>
+            <li>Sugestão de novos projetos</li>
+            <li>Acompanhamento geral dos projetos</li>
+        </ul>
+
+        <h2>3. Restrições</h2>
+        <ul>
+            <li>O sistema será acessível apenas a usuários com cadastro autorizado, como alunos e gestores dos cursos de TI do UNICEUB.</li>
+            <li>Não há integração com sistemas de comunicação externos, como e-mail ou plataformas de mensagens.</li>
+            <li>As atualizações de status de um projeto dependerão de um processo manual, inserido pelos responsáveis.</li>
+        </ul>
+
+        <h2>4. Arquitetura Básica</h2>
+        <p>
+            O SisCPTI será desenvolvido com uma arquitetura web, utilizando tecnologias como <strong>[Nome da linguagem de programação, ex: Python, Java, etc.]</strong> no backend e <strong>[Nome do framework, ex: React, Angular, Vue, etc.]</strong> no frontend. O banco de dados a ser utilizado é o <strong>[Nome do banco de dados, ex: PostgreSQL, MySQL, etc.]</strong>.
+        </p>
+
+        <h2>5. Usuários</h2>
+        <p>
+            O público-alvo do SisCPTI é composto por:
+        </p>
+        <ul>
+            <li><strong>Alunos:</strong> Usarão o sistema para visualizar projetos e encontrar oportunidades para trabalhos acadêmicos ou projetos integradores.</li>
+            <li><strong>Professores/Gestores do CPTI:</strong> Usarão o sistema para gerenciar, aprovar e acompanhar o progresso dos projetos.</li>
+        </ul>
+
+        <h2>6. Partes Interessadas</h2>
+        <ul>
+            <li><strong>Diretamente relacionadas:</strong> UNICEUB, alunos e professores/gestores do CPTI.</li>
+            <li><strong>Indiretamente relacionadas:</strong> Empresas que propõem os projetos.</li>
+        </ul>
+
+    </div>
+
+</body>
+</html>
