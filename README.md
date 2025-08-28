@@ -6,9 +6,9 @@ O SisCPTI é um sistema de gestão desenvolvido para a disciplina de **Projeto I
 
 ### 💡Justificativa e Objetivos
 
-  * *Aumentar a visibilidade dos projetos de TI disponíveis para a comunidade acadêmica.:** Atualmente, a gestão e visualização dos projetos não são centralizadas, o que dificulta o acompanhamento e a descoberta de novas oportunidades por estudantes e professores.
-  * *Melhorar a gestão do ciclo de vida dos projetos, desde a submissão até o acompanhamento do progresso.:** Não há um local único para acompanhar o status e o progresso dos projetos.
-  * **Centralizar o fluxo de informações, permitindo a comunicação entre empresas, alunos e gestores.** O sistema atua como um ponto de encontro, simplificando a interação entre empresas, alunos e coordenadores.
+  * **Aumentar a visibilidade dos projetos de TI disponíveis para a comunidade acadêmica:** Atualmente, a gestão e visualização dos projetos não são centralizadas, o que dificulta o acompanhamento e a descoberta de novas oportunidades por estudantes e professores.
+  * **Melhorar a gestão do ciclo de vida dos projetos, desde a submissão até o acompanhamento do progresso:** Não há um local único para acompanhar o status e o progresso dos projetos.
+  * **Centralizar o fluxo de informações, permitindo a comunicação entre empresas, alunos e gestores:** O sistema atua como um ponto de encontro, simplificando a interação entre empresas, alunos e coordenadores.
 
 -----
 
