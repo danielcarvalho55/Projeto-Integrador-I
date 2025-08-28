@@ -1,23 +1,35 @@
-# Projeto-Integrador-I
-Trabalho desenvolvido na disciplina de Projeto Integrador I, da instituição UniCeub.
+#Sistema de Gestão do Caderno de Projetos de TI (SisCPTI) 📝#
+O SisCPTI é um sistema de gestão desenvolvido para a disciplina de Projeto Integrador I do UNICEUB. O objetivo principal é criar uma plataforma centralizada para gerenciar projetos de Tecnologia da Informação (TI), servindo como um catálogo digital para empresas e estudantes da universidade. Ele facilita a comunicação e o acompanhamento do progresso de projetos integradores, garantindo uma experiência mais eficiente para todos os envolvidos.
 
-## Projeto: Sistema de Gestão do Caderno de Projetos de TI - SisCTPI
-Trata-se de um sistema de gestão de projetos de TI, solicitados por
-empresas e oferecidos aos estudantes dos projetos
-integradores dos cursos de TI como sugestão de projetos.
+Funcionalidades
+O sistema oferece as seguintes funcionalidades principais:
 
-Principais funcionalidades do sistema:
-* Visualização de projetos existentes;
-* Sugestão de novos projetos;
-* Acompanhamento geral dos projetos.
+Visualização de Projetos: Uma interface intuitiva onde estudantes e professores podem navegar e explorar projetos de TI propostos por empresas.
 
-# Objetivos do projeto
+Sugestão de Novos Projetos: Empresas podem submeter propostas de projetos de forma estruturada, incluindo documentos, requisitos e informações detalhadas para análise.
 
-* Oferecer uma interface intuitiva para empresas sugerirem novos projetos, incluindo a submissão de documentos e requisitos necessários para análise.
+Acompanhamento e Gestão: Permite o registro de atualizações, feedbacks e o progresso geral dos projetos, facilitando o acompanhamento do ciclo de vida de cada um.
 
-* Implementar funcionalidades de gestão e acompanhamento do andamento dos projetos, permitindo o registro de atualizações, feedbacks e progresso.
+Comunicação Integrada: Promove a comunicação entre empresas, estudantes e coordenadores, simplificando a interação entre as partes.
 
-* Facilitar a comunicação entre empresas, estudantes e coordenadores, promovendo uma integração eficiente entre os envolvidos.
+Tecnologia e Arquitetura
+O SisCPTI é construído com base em uma arquitetura web moderna. Detalhes sobre as tecnologias específicas utilizadas serão incluídos aqui.
 
+Backend: 
 
-Grupo: Joao Pedro Dias (PO), Daniel Carvalho (Scrum master), Guilherme Gouvea(dev), Davi Souza(dev), Paulo Victor (dev)
+Frontend: 
+
+Banco de Dados: 
+
+Equipe do Projeto
+Este projeto foi desenvolvido pelo seguinte grupo:
+
+João Pedro Dias - https://github.com/jopedica
+
+Daniel Carvalho - https://github.com/danielcarvalho55
+
+Guilherme Gouveia - https://github.com/GuilhermeGouveia12
+
+Davi Souza - https://github.com/davi-ssg
+
+Paulo Victor - https://github.com/Pxulofn
