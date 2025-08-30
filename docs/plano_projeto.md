@@ -36,7 +36,6 @@ Nesta fase inicial, o projeto terá caráter **conceitual e de estudo**, com foc
 
 ## 3. 📅 Cronograma Preliminar
 
-> *Cronograma estimativo para a fase inicial de estudo e implementação conceitual.*
 
 - **Fase 1: Planejamento e Organização (Semanas 1–2)**  
   - Revisão e finalização do Documento de Visão  
