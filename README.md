@@ -60,12 +60,10 @@ O sistema oferece as seguintes funcionalidades principais:
 
 O **SisCPTI** será construído com base em uma arquitetura web moderna:
 
-- **Backend:** Node.js (Express)  
-- **Frontend:** React.js + Tailwind CSS  
-- **Banco de Dados:** PostgreSQL  
-- **Versionamento:** GitHub  
-
-*(as tecnologias podem ser ajustadas conforme evolução do projeto)*  
+- **Backend:** indefinido
+- **Frontend:** indefinido
+- **Banco de Dados:** indefinido 
+- **Versionamento:** indefinido
 
 ---
 
@@ -82,10 +80,11 @@ O **SisCPTI** será construído com base em uma arquitetura web moderna:
 
 ### 📌 Restrições e Premissas
 
-- 🔒 **Acesso restrito** a alunos e professores do UNICEUB.  
-- 🚫 **Sem integrações externas** (e-mail, APIs) nesta fase inicial.  
-- ⏳ **Atualização manual** do status dos projetos pelos responsáveis.  
-- 📍 **Premissa:** o sistema será utilizado inicialmente apenas como catálogo e registro, sem automações complexas.  
+-  **Acesso restrito:** inicialmente apenas alunos e professores do UNICEUB poderão visualizar e validar o protótipo.  
+-  **Sem funcionalidades completas:** nesta fase o sistema não será desenvolvido com todas as funções finais, mas sim representado por protótipos navegáveis e documentação.  
+-  **Sem integrações externas:** não haverá conexões com APIs, e-mails ou sistemas acadêmicos neste semestre.  
+-  **Dados fictícios:** as informações de projetos cadastrados no protótipo serão apenas exemplos, não dados reais.  
+-  **Premissa:** o sistema será utilizado inicialmente apenas como catálogo conceitual de projetos, servindo de base para fases futuras (PI II e PI III).  
 
 ---
 
