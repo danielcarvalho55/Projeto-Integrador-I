@@ -38,7 +38,6 @@ O **SisCPTI** será desenvolvido com uma **arquitetura web** (prevista para fase
 -  **Frontend:**  
 -  **Banco de Dados:**
 
-*(no PI I será apenas prototipado, não implementado)*  
 
 ---
 
@@ -58,11 +57,11 @@ O **SisCPTI** será desenvolvido com uma **arquitetura web** (prevista para fase
 - **Coordenação do Curso:** define diretrizes e acompanha resultados.  
 - **Professor Responsável pelo Caderno (CPTI):** gerencia e valida o processo.  
 - **Equipe do Projeto (PI I):**  
-  - João Pedro Dias – *Product Owner (PO)*  
-  - Daniel Carvalho – *Scrum Master*  
-  - Guilherme Gouvea – *Desenvolvedor*  
-  - Davi Souza – *Desenvolvedor*  
-  - Paulo Victor – *Desenvolvedor*  
+  - João Pedro Dias –  
+  - Daniel Carvalho –  
+  - Guilherme Gouvea –   
+  - Davi Souza – 
+  - Paulo Victor – 
 
 ### 🌐 Indiretamente Relacionadas
 - **Professores Orientadores:** auxiliam no acompanhamento acadêmico.  
