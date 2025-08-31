@@ -11,9 +11,9 @@ Atualmente, a falta de um sistema centralizado gera:
 - ❌ Falta de visibilidade de **novas oportunidades** por estudantes e professores  
 
 ### 🔑 Objetivos
-- 🌐 **Aumentar a visibilidade** dos projetos de TI para a comunidade acadêmica  
-- 📡 **Centralizar o fluxo de informações**, conectando empresas, alunos e gestores  
-- 📈 **Definir a base conceitual** do sistema, levantando requisitos e validando necessidades antes da fase de desenvolvimento futuro  
+- **Aumentar a visibilidade** dos projetos de TI para a comunidade acadêmica  
+- **Centralizar o fluxo de informações**, conectando empresas, alunos e gestores  
+- **Definir a base conceitual** do sistema, levantando requisitos e validando necessidades antes da fase de desenvolvimento futuro  
 
 ---
 
@@ -21,16 +21,16 @@ Atualmente, a falta de um sistema centralizado gera:
 
 ### Escopo
 Nesta fase inicial, o projeto terá caráter **conceitual e de estudo**, com foco em:  
-- 📋 **Coleta de Requisitos**: Levantamento das necessidades dos usuários (alunos, professores e empresas)  
-- 🧭 **Análise do Contexto**: Identificação de problemas e oportunidades relacionadas à gestão de projetos de TI  
-- 🎨 **Prototipagem Conceitual**: Representações visuais (wireframes/mockups) para validação de ideias  
-- 📑 **Documentação do Projeto**: Elaboração do Documento de Visão e do Plano de Projeto  
+- **Coleta de Requisitos**: Levantamento das necessidades dos usuários (alunos, professores e empresas)  
+- **Análise do Contexto**: Identificação de problemas e oportunidades relacionadas à gestão de projetos de TI  
+- **Prototipagem Conceitual**: Representações visuais (wireframes/mockups) para validação de ideias  
+- **Documentação do Projeto**: Elaboração do Documento de Visão e do Plano de Projeto  
 
 ### Entregas
-- 📘 Documento de Visão do Projeto  
-- 📑 Plano de Projeto  
-- 🎨 Protótipo de baixa/alta fidelidade da interface do sistema (não funcional)  
-- 📊 Relatório de estudo e viabilidade do sistema  
+- Documento de Visão do Projeto  
+- Plano de Projeto  
+- Protótipo de baixa/alta fidelidade da interface do sistema (não funcional)  
+- Relatório de estudo e viabilidade do sistema  
 
 ---
 
@@ -61,11 +61,11 @@ Nesta fase inicial, o projeto terá caráter **conceitual e de estudo**, com foc
 
 ## 4. 👥 Equipe e Papéis
 
-- 🧭 **João Pedro Dias (PO)** – Responsável por definir a visão do produto e gerenciar o backlog de requisitos  
-- ⚡ **Daniel Carvalho (Scrum Master)** – Facilita a organização e garante o andamento das atividades  
-- 🛠️ **Guilherme Gouvea (Analista)** – Apoio no levantamento de requisitos e documentação  
-- 🎨 **Davi Souza (Designer)** – Responsável pela prototipagem e mockups  
-- 🔗 **Paulo Victor (Analista)** – Apoio na análise de viabilidade e restrições  
+- **João Pedro Dias** –   
+- **Daniel Carvalho** –  
+- **Guilherme Gouveia** – 
+- **Davi Souza** –  
+- **Paulo Victor** –  
 
 ---
 
