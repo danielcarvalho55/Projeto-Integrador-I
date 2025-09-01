@@ -13,8 +13,8 @@ O objetivo é centralizar informações, atas, imagens e decisões para fácil a
 ---
 
 ## 📅 Informações da Reunião  
-- **Data:** 03/09/2025  
-- **Local:** Online (Meet)]  
+- **Data:** 03/09/2025 às 09:00am
+- **Local:** Online (Meet)  
 - **Participantes:** Todos do grupo tem que estar presente  
 - **Mediador:** Coordenador Flávio
 
