@@ -32,7 +32,7 @@ O objetivo é centralizar informações, atas, imagens e decisões para fácil a
 ## 📷 Registro Fotográfico  
 
 ### Foto 1  
-![Foto 1 da reunião](.![Imagem do WhatsApp de 2025-09-01 à(s) 15 39 34_17b41922](https://github.com/user-attachments/assets/e6e2d50c-f24b-4c9a-9967-8beb7027162f)
+(.![Imagem do WhatsApp de 2025-09-01 à(s) 15 39 34_17b41922](https://github.com/user-attachments/assets/e6e2d50c-f24b-4c9a-9967-8beb7027162f)
 jpg)  
 
 
