@@ -141,11 +141,12 @@ Este projeto foi desenvolvido com dedicação pelo seguinte grupo:
 
 | Nome | Função | GitHub |
 | :--- | :--- | :--- |
-| João Pedro Dias | - | [jopedica](https://github.com/jopedica) |
-| Daniel Carvalho | - | [danielcarvalho55](https://github.com/danielcarvalho55) |
-| Guilherme Gouveia | - | [GuilhermeGouveia12](https://github.com/GuilhermeGouveia12) |
-| Davi Souza | - | [davi-ssg](https://github.com/davi-ssg) |
-| Paulo Victor | - | [Pxulofn](https://github.com/Pxulofn) |
+| João Pedro Dias | Product Owner | [jopedica](https://github.com/jopedica) |
+| Daniel Carvalho | Scrum Master | [danielcarvalho55](https://github.com/danielcarvalho55) |
+| Guilherme Gouveia | Desenvolvedor | [GuilhermeGouveia12](https://github.com/GuilhermeGouveia12) |
+| Davi Souza | Desenvolvedor | [davi-ssg](https://github.com/davi-ssg) |
+| Paulo Victor | Desenvolvedor | [Pxulofn](https://github.com/Pxulofn) |
+| Arthur Grangeiro | Desenvolvedor | - | 
 
 ---
 
