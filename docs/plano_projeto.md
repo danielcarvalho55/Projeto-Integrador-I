@@ -61,11 +61,12 @@ Nesta fase inicial, o projeto terá caráter **conceitual e de estudo**, com foc
 
 ## 4. 👥 Equipe e Papéis
 
-- **João Pedro Dias** –   
-- **Daniel Carvalho** –  
-- **Guilherme Gouveia** – 
-- **Davi Souza** –  
-- **Paulo Victor** –  
+- **João Pedro Dias** – Product Owner  
+- **Daniel Carvalho** –  Scrum Master
+- **Guilherme Gouveia** – Desenvolvedor
+- **Davi Souza** –  Desenvolvedor
+- **Paulo Victor** – Desenvolvedor
+- **Arthur Grangeiro** - Desenvolvedor
 
 ---
 
